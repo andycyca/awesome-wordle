@@ -57,6 +57,7 @@
 
 ## Non-word guesses
 
+- Chess openings: [Chessle](https://jackli.gg/chessle/)
 - Guess a song based on snippets: [Heardle](https://www.heardle.app/)
 - Guess countries using silhouettes and position: [Worldle](https://worldle.teuteuf.fr/)
 - Mathematical equations (1): [nerdle](https://nerdlegame.com/)
