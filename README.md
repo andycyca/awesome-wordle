@@ -60,6 +60,7 @@ Alternative word lists
 -   SEO terms: [Searchdle](https://wtfseo.com/searchdle/)
 -   Star Wars: [Star Wordle](https://www.starwordle.com/)
 -   Taylor Swift-adjacent: [Taylordle](https://www.taylordle.com/)
+-   Pokemon wordle variant: https://squirdle.fireblend.com/
 
 ### Sports
 
