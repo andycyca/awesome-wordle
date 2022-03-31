@@ -29,7 +29,7 @@ By number of parallel guesses
 -   4 parallel games: [Quordle](https://www.quordle.com/#/)
 -   8 parallel games: [Octordle](https://octordle.com/)
 -   16 parallel games (1): [Sdecordle](https://www.sedecordle.com/)
--   16 parallel games (1): [Hexadecordle](https://hexadecordle.co.uk/)
+-   16 parallel games (2): [Hexadecordle](https://hexadecordle.co.uk/)
 -   32 parallel games: [Duotrigordle](https://duotrigordle.com/)
 -   1000 parallel games:
     [Kilodrdle](https://jonesnxt.github.io/kilordle/)
