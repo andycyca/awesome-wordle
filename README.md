@@ -14,7 +14,7 @@ Contents
     -   [Non-word guesses](#non-word-guesses)
     -   [Competitive games](#competitive-games)
 
-
+<!-- Generate file with pandoc: pandoc -t gfm -s --toc --citeproc --markdown-headings=setext -o README.md README.md-->
 <!-- Lists are alphabetized -->
 
 Original
@@ -129,11 +129,11 @@ Non-word guesses
 -   Guess the hexadecimal number: [Hexle](https://jamesl.me/hexle/)
 -   Mathematical equations ():
     [Addle](https://alex.strinka.net/programs/addle/)
--   Mathematical equations (): [Equatle](http://www.equatle.com/)
--   Mathematical equations (): [Mathle](https://mathlegame.com/)
--   Mathematical equations (): [Mathler](https://www.mathler.com/)
--   Mathematical equations (): [Nerdle](https://nerdlegame.com/)
--   Mathematical equations (): [Numberle](https://numberle.org/)
+-   Mathematical equations (1): [Equatle](http://www.equatle.com/)
+-   Mathematical equations (2): [Mathle](https://mathlegame.com/)
+-   Mathematical equations (3): [Mathler](https://www.mathler.com/)
+-   Mathematical equations (4): [Nerdle](https://nerdlegame.com/)
+-   Mathematical equations (5): [Numberle](https://numberle.org/)
 -   Pokémon: [Squirdle](https://squirdle.fireblend.com/)
 -   Prime numbers: [primel](https://cojofra.github.io/primel/)
 -   Rotating shapes: [Shaple](https://swag.github.io/shaple/)
