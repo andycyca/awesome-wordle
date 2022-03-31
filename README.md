@@ -56,11 +56,11 @@ Alternative word lists
 -   Musical and choral vocabulary: [Bydrle](https://www.byrdle.net/)
 -   NSFW vocabulary: [Lewdle](https://www.lewdlegame.com/)
 -   Pet-related vocabulary: [Pawrdle](https://www.pawrdle.com/)
+-   Pokemon: [Squirdle](https://squirdle.fireblend.com/)
 -   Profanities: [Sweardle](https://sweardle.com/)
 -   SEO terms: [Searchdle](https://wtfseo.com/searchdle/)
 -   Star Wars: [Star Wordle](https://www.starwordle.com/)
 -   Taylor Swift-adjacent: [Taylordle](https://www.taylordle.com/)
--   Pokemon wordle variant: https://squirdle.fireblend.com/
 
 ### Sports
 
@@ -135,7 +135,6 @@ Non-word guesses
 -   Mathematical equations (3): [Mathler](https://www.mathler.com/)
 -   Mathematical equations (4): [Nerdle](https://nerdlegame.com/)
 -   Mathematical equations (5): [Numberle](https://numberle.org/)
--   Pokémon: [Squirdle](https://squirdle.fireblend.com/)
 -   Prime numbers: [primel](https://cojofra.github.io/primel/)
 -   Rotating shapes: [Shaple](https://swag.github.io/shaple/)
 -   Routes through the NYC metro:
