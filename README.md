@@ -1,3 +1,9 @@
+awesome-wordle
+==============
+
+Contents
+--------
+
 -   [awesome-wordle](#awesome-wordle)
     -   [Original](#original)
     -   [By number of parallel guesses](#by-number-of-parallel-guesses)
@@ -8,8 +14,6 @@
     -   [Non-word guesses](#non-word-guesses)
     -   [Competitive games](#competitive-games)
 
-awesome-wordle
-==============
 
 <!-- Lists are alphabetized -->
 
