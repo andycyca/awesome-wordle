@@ -66,6 +66,7 @@
 - Password guessing (alphanumeric + symbol characters): [Passwordle](https://passwordle.com/)
 - Positional clues (based on alphabetic order): [Wordle peaks](https://vegeta897.github.io/wordle-peaks/)
 - Reverse Wordle with a hidden word: [Revertle](https://www.puppetsquid.com/revertle/)
+- Semantic proximity: [Semantle](https://semantle.novalis.org/)
 - Swap letters of already-placed guesses with a common theme: [Quintessential](https://quintessential.fun/)
 - Variable word length: [Hello Wordl](https://hellowordl.net/)
 - Words without «e»: [QWRTL](https://limpet.net/qwrtl/)
