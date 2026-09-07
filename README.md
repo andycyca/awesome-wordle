@@ -114,6 +114,7 @@ Other languages
 ---------------
 
 -   Multiple languages: [Wordle game](https://wordlegame.org/)
+-   Turkish: [Harf Avı](https://harfavi.com/) (TDK dictionary, 4–9 letters, unlimited mode)
 
 Non-word guesses
 ----------------
