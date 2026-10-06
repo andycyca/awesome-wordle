@@ -146,6 +146,7 @@ Non-word guesses
 Competitive games
 -----------------
 
+-   [Worddelo](https://www.worddelo.com)
 -   [WordHoot](https://wordhoot.com/)
 -   [Wordle cup](https://wordlecup.io/)
 -   [Wordle golf](https://wordle-golf.netlify.app/)
