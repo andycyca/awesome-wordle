@@ -70,6 +70,7 @@ Alternative word lists
 -   Hockey: [Gordle](https://gordle.herokuapp.com/)
 -   MLB players: [WARdle](https://wardle.app/)
 -   NFL players: [Weddle](https://www.weddlegame.com/)
+-   Soccer players: [Futbolle](https://futbolle.com/)
 
 Alternate rules
 ---------------
