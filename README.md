@@ -118,6 +118,7 @@ Other languages
 Non-word guesses
 ----------------
 
+-   Aspect ratio of a stretched photo: [Stretchdle](https://seekdle.com/stretchdle/)
 -   Chess openings: [Chessle](https://jackli.gg/chessle/)
 -   Flags (1) with similar flags/colors:
     [Flaggle](https://ducc.pythonanywhere.com/flaggle/)
