@@ -131,6 +131,7 @@ Non-word guesses
     [Worldle](https://worldle.teuteuf.fr/)
 -   Guess the movie using screenshots: [Movlie](https://movlie.org/)
 -   Guess the hexadecimal number: [Hexle](https://jamesl.me/hexle/)
+-   League of Legends champion clues, silhouettes, and grids: [LoLdoku](https://www.loldoku.gg/)
 -   Mathematical equations (0):
     [Addle](https://alex.strinka.net/programs/addle/)
 -   Mathematical equations (1): [Equatle](http://www.equatle.com/)
