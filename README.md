@@ -105,6 +105,8 @@ Alternate rules
     peaks](https://vegeta897.github.io/wordle-peaks/)
 -   Reverse Wordle with a hidden word:
     [Revertle](https://www.puppetsquid.com/revertle/)
+-   Semantic proximity, guesses ranked by closeness (English, Spanish,
+    Portuguese, French): [Contexto](https://www.contexto.us.com/)
 -   Semantic proximity: [Semantle](https://semantle.novalis.org/)
 -   Swap letters of already-placed guesses with a common theme:
     [Quintessential](https://quintessential.fun/)
