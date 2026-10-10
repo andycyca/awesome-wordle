@@ -125,6 +125,9 @@ Non-word guesses
 -   Flags (1) with similar flags/colors:
     [Flaggle](https://ducc.pythonanywhere.com/flaggle/)
 -   Flags (2): [Flaggle](https://flaggle.app/)
+-   General-knowledge open-answer practice:
+    [Krillion Coach](https://krillion.space/) - seven prompts per daily or
+    practice round, with answer review and an independent 40-prompt bank.
 -   Guess a phrase from a classic book: [Bookli](https://bookli.co.uk/)
 -   Guess a song based on snippets: [Heardle](https://www.heardle.app/)
 -   Guess countries using silhouettes and position:
