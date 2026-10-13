@@ -122,6 +122,8 @@ Non-word guesses
 
 -   Aspect ratio of a stretched photo: [Stretchdle](https://seekdle.com/stretchdle/)
 -   Chess openings: [Chessle](https://jackli.gg/chessle/)
+-   City from six clues in its sky:
+    [Almanac](https://solocene.com/almanac?via=awesomewordle)
 -   Flags (1) with similar flags/colors:
     [Flaggle](https://ducc.pythonanywhere.com/flaggle/)
 -   Flags (2): [Flaggle](https://flaggle.app/)
@@ -131,6 +133,8 @@ Non-word guesses
     [Worldle](https://worldle.teuteuf.fr/)
 -   Guess the movie using screenshots: [Movlie](https://movlie.org/)
 -   Guess the hexadecimal number: [Hexle](https://jamesl.me/hexle/)
+-   Hour of the day from a famous building's real shadow:
+    [Gnomon](https://solocene.com/gnomon?via=awesomewordle)
 -   League of Legends champion clues, silhouettes, and grids: [LoLdoku](https://www.loldoku.gg/)
 -   Mathematical equations (0):
     [Addle](https://alex.strinka.net/programs/addle/)
