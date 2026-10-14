@@ -122,6 +122,8 @@ Non-word guesses
 
 -   Aspect ratio of a stretched photo: [Stretchdle](https://seekdle.com/stretchdle/)
 -   Chess openings: [Chessle](https://jackli.gg/chessle/)
+-   Find the family member who is lying about what they saw:
+    [Lie of Sight](https://lieofsight.com/)
 -   Flags (1) with similar flags/colors:
     [Flaggle](https://ducc.pythonanywhere.com/flaggle/)
 -   Flags (2): [Flaggle](https://flaggle.app/)
