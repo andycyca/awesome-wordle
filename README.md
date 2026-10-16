@@ -108,6 +108,8 @@ Alternate rules
 -   Semantic proximity: [Semantle](https://semantle.novalis.org/)
 -   Swap letters of already-placed guesses with a common theme:
     [Quintessential](https://quintessential.fun/)
+-   Variable word length (3 to 11 letters), daily and unlimited:
+    [Vowelkit: Daily Word Guessing Game](https://www.vowelkit.com/modes)
 -   Variable word length: [Hello Wordl](https://hellowordl.net/)
 -   Words without «e»: [QWRTL](https://limpet.net/qwrtl/)
 
