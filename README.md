@@ -67,6 +67,7 @@ Alternative word lists
 -   College football: [CFBordle](https://cfbordle.redditcfb.com/)
 -   Current NBA player: [Poeltl](https://poeltl.dunk.town/)
 -   Cyclists: [Bikle](https://giop98.github.io/bikle/)
+-   Football / soccer players: [GuessWhiz](https://guesswhiz.com/)
 -   Hockey: [Gordle](https://gordle.herokuapp.com/)
 -   MLB players: [WARdle](https://wardle.app/)
 -   NFL players: [Weddle](https://www.weddlegame.com/)
