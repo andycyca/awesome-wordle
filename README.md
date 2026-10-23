@@ -125,6 +125,7 @@ Non-word guesses
 -   Flags (1) with similar flags/colors:
     [Flaggle](https://ducc.pythonanywhere.com/flaggle/)
 -   Flags (2): [Flaggle](https://flaggle.app/)
+-   Guess a country from numerical clues (distance, area, population): [Scalar](https://www.scalargame.com/scalar)
 -   Guess a phrase from a classic book: [Bookli](https://bookli.co.uk/)
 -   Guess a song based on snippets: [Heardle](https://www.heardle.app/)
 -   Guess countries using silhouettes and position:
