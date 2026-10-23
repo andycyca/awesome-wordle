@@ -139,6 +139,8 @@ Non-word guesses
 -   Mathematical equations (3): [Mathler](https://www.mathler.com/)
 -   Mathematical equations (4): [Nerdle](https://nerdlegame.com/)
 -   Mathematical equations (5): [Numberle](https://numberle.org/)
+-   Name things close to a target number, or estimate a fact:
+    [Plain Game](https://plaingame.fun/)
 -   Prices of goods in Spain: [QUANTO](https://quanto.juancroldan.com/)
 -   Prime numbers: [primel](https://cojofra.github.io/primel/)
 -   Rotating shapes: [Shaple](https://swag.github.io/shaple/)
