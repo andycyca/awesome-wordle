@@ -141,6 +141,8 @@ Non-word guesses
 -   Mathematical equations (5): [Numberle](https://numberle.org/)
 -   Prices of goods in Spain: [QUANTO](https://quanto.juancroldan.com/)
 -   Prime numbers: [primel](https://cojofra.github.io/primel/)
+-   Rare correct answers to trivia prompts:
+    [Rarest Answer](https://rarestanswer.com/?ref=awesome-wordle)
 -   Rotating shapes: [Shaple](https://swag.github.io/shaple/)
 -   Routes through the NYC metro:
     [Subwaydle](https://www.subwaydle.com/)
