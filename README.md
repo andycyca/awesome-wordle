@@ -109,6 +109,8 @@ Alternate rules
 -   Swap letters of already-placed guesses with a common theme:
     [Quintessential](https://quintessential.fun/)
 -   Variable word length: [Hello Wordl](https://hellowordl.net/)
+-   Variable word length (4, 5 or 6 letters), daily and unlimited:
+    [Free Word Puzzle](https://www.freewordpuzzle.com/)
 -   Words without «e»: [QWRTL](https://limpet.net/qwrtl/)
 
 Other languages
