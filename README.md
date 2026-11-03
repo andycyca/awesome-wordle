@@ -116,6 +116,7 @@ Other languages
 
 -   Multiple languages: [Wordle game](https://wordlegame.org/)
 -   Turkish: [Harf Avı](https://harfavi.com/) (TDK dictionary, 4–9 letters, unlimited mode)
+-   German: [Fünfer] (https://www.hirnly.com/fuenfer) (German, daily five-letter word with a handpicked word list)
 
 Non-word guesses
 ----------------
