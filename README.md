@@ -114,6 +114,8 @@ Alternate rules
 Other languages
 ---------------
 
+-   Multiple languages, one site per language with 4, 5 and 6-letter
+    modes: [Croatian](https://wordpuzzles.eu/hr/wordle/), [Czech](https://slovnihry.cz/wordle/), [Danish](https://ordspil.eu/wordle/), [Dutch](https://woordspellen.be/wordle/), [English](https://dailywordgames.org/wordle/), [English (UK)](https://dailywordgames.co.uk/wordle/), [French](https://jeuxdemots.eu/wordle/), [German](https://wortsuche.eu/wordle/), [Greek](https://lexe.gr/wordle/), [Hungarian](https://szokereso.eu/wordle/), [Italian](https://giochidiparole.eu/wordle/), [Norwegian](https://ordspill.eu/wordle/), [Polish](https://gryslowne.pl/wordle/), [Portuguese](https://jogopalavra.com/wordle/), [Russian](https://igryvslova.com/wordle/), [Slovak](https://slovnehry.sk/wordle/), [Spanish](https://juegosdepalabras.es/wordle/), [Turkish](https://wordpuzzles.eu/tr/wordle/), [Ukrainian](https://wordpuzzles.eu/uk/wordle/)
 -   Multiple languages: [Wordle game](https://wordlegame.org/)
 -   Turkish: [Harf Avı](https://harfavi.com/) (TDK dictionary, 4–9 letters, unlimited mode)
 
