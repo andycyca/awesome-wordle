@@ -105,7 +105,7 @@ Alternate rules
     peaks](https://vegeta897.github.io/wordle-peaks/)
 -   Reverse Wordle with a hidden word:
     [Revertle](https://www.puppetsquid.com/revertle/)
--   Semantic proximity: [Semantle](https://semantle.novalis.org/)
+-   Semantic proximity: [Semantle](https://semantle.novalis.org/), [Warmer Warmer](https://warmerwarmer.com/)
 -   Swap letters of already-placed guesses with a common theme:
     [Quintessential](https://quintessential.fun/)
 -   Variable word length: [Hello Wordl](https://hellowordl.net/)
