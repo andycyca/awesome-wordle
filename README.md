@@ -146,6 +146,7 @@ Non-word guesses
     [Subwaydle](https://www.subwaydle.com/)
 -   Statistics: [Learnle](https://learnle.net/)
 -   U.S States based on Google Maps (a-la Geoguesser): [Wheredle](https://wheredle.xyz/)
+-   U.S. historic places from a daily road trip, pinned on a map: [Road Trip](https://historicplacesatlas.com/play)
 
 Competitive games
 -----------------
