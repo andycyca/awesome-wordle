@@ -122,6 +122,7 @@ Non-word guesses
 
 -   Aspect ratio of a stretched photo: [Stretchdle](https://seekdle.com/stretchdle/)
 -   Chess openings: [Chessle](https://jackli.gg/chessle/)
+-   Estimates of object counts: [Amountle](https://amountle.dev/)
 -   Flags (1) with similar flags/colors:
     [Flaggle](https://ducc.pythonanywhere.com/flaggle/)
 -   Flags (2): [Flaggle](https://flaggle.app/)
@@ -139,11 +140,13 @@ Non-word guesses
 -   Mathematical equations (3): [Mathler](https://www.mathler.com/)
 -   Mathematical equations (4): [Nerdle](https://nerdlegame.com/)
 -   Mathematical equations (5): [Numberle](https://numberle.org/)
+-   Past purchase values: [Worthsies](https://worthsies.dev/)
 -   Prices of goods in Spain: [QUANTO](https://quanto.juancroldan.com/)
 -   Prime numbers: [primel](https://cojofra.github.io/primel/)
 -   Rotating shapes: [Shaple](https://swag.github.io/shaple/)
 -   Routes through the NYC metro:
     [Subwaydle](https://www.subwaydle.com/)
+-   Scale estimates: [Weighsies](https://weighsies.dev/)
 -   Statistics: [Learnle](https://learnle.net/)
 -   U.S States based on Google Maps (a-la Geoguesser): [Wheredle](https://wheredle.xyz/)
 
